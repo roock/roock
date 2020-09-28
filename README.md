@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-__I am *Roman Pertl* a Seniour Cloud Infrastrucure and DevOps Engineer from Austria.__
+__I am *Roman Pertl* a Senior Cloud Infrastrucure and DevOps Engineer from Austria.__
 
 Here are some ideas to get you started:
 
