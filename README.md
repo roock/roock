@@ -4,13 +4,12 @@ __I am *Roman Pertl* a Senior Cloud Infrastrucure and DevOps Engineer from Austr
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Cloud bases Infrastrucures
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on Open Source
-- 📫 How to reach me: |[Blog](https://roman.pertl.org/)
+- 🔭 I’m currently working with On-Premises hardware for an Austria telco.
+- 🌱 I’m currently learning Prometheus/Alertmanager/Grafana.
+- 👯 I’m looking to collaborate on Open Source.
+- 📫 How to reach me: [Blog](https://roman.pertl.org/)
 - 😄 Pronouns: They/them
-- ⚡ Fun fact: I use Manjaro as my daily workstation driver
--->
+- ⚡ Fun fact: Every few years I'm switching between MacOS and Linux as my daily workstation.
 
 ___
 
